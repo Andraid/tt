@@ -1,0 +1,3 @@
+include ':t1Lib'
+include ':app'
+rootProject.name = "MyApplication"
